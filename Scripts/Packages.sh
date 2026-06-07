@@ -65,6 +65,7 @@ UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 UPDATE_PACKAGE "luci-app-timecontrol" "gaobin89/luci-app-timecontrol" "js"
 UPDATE_PACKAGE "luci-app-lucky" "sirpdboy/luci-app-lucky" "main"
 UPDATE_PACKAGE "luci-app-zerotier" "crazy66688/luci-app-zerotier" "main"
+UPDATE_PACKAGE "luci-app-kms" "gaoderby/luci-app-kms" "main"
 
 
 #UPDATE_PACKAGE "athena-led" "unraveloop/JDC-AX6600-Athena-LED-Controller" "main"
